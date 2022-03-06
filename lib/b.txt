@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-aaaa
-aaa
-aa
-a
-=======
+//aaaa
+//aaa
+//aa
+//a
 cccc
 ccc
 cc
 c
->>>>>>> 6805656f0dad39a7a7a2d8b872098a30818fcbd9
